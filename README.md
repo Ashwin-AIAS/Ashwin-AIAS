@@ -1,9 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Ashwin! 👋
 
-<!--
-**Ashwin-AIAS/Ashwin-AIAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# About Me:
+### About Me
 
 I'm a passionate AI Engineer with a background in Mechanical Engineering, currently pursuing my Master's in AI for Autonomous Systems. I am deeply interested in the real-world applications of computer vision, deep learning, and reinforcement learning, especially within the automotive sector. I enjoy experimenting with different models and developing innovative solutions for complex challenges.
 
@@ -36,3 +33,4 @@ I'm a passionate AI Engineer with a background in Mechanical Engineering, curren
 >
 > _- Alan Kay_
 
+---
