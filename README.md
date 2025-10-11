@@ -33,26 +33,7 @@ I enjoy experimenting with different models and developing innovative solutions 
 > "The best way to predict the future is to invent it."  
 > _– Alan Kay_
 
----
 
-
-![GitHub Contribution Pinball](images/github-pinball-demo.gif)  
-*Demo: The animated pinball game below your contribution grid.*
-
----
-
-### 📈 GitHub Activity Insights
-Showcases your yearly contribution stats and repository activity, inspired by your GitHub dashboard.
-
-- Displays total yearly contributions (e.g., “209 contributions in the last year”).
-- Includes an **activity overview** and **commit vs. review graph**.
-- Links directly to your recent repositories.
-- Helps viewers quickly assess your coding engagement.
-
-![Contribution Insights](images/github-activity-overview.png)  
-*Screenshot: Activity breakdown and contribution summary.*
-
----
 
 
 ---
