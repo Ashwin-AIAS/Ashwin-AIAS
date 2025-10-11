@@ -35,13 +35,4 @@ I enjoy experimenting with different models and developing innovative solutions 
 
 
 
----
 
-![](https://raw.githubusercontent.com/iharsh234/iharsh234/main/github-contribution-grid-snake-cricket.svg)
-
----
-
-### 🧾 Changelog
-- Added **GitHub Contribution Pinball Game** below contribution graph.  
-- Integrated **Activity Insights** visualization section.  
-- Updated layout and consistency for better readability.
