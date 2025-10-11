@@ -41,7 +41,4 @@ I enjoy experimenting with different models and developing innovative solutions 
 
 ---
 
-### 🧾 Changelog
-- Added GitHub Contribution **Pinball Game** section.  
-- Added **Activity Insights** inspired by GitHub dashboard stats.  
-- Enhanced README formatting and visuals for clarity.
+
