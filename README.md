@@ -33,22 +33,54 @@ I enjoy experimenting with different models and developing innovative solutions 
 > "The best way to predict the future is to invent it."  
 > _– Alan Kay_
 
-
-
-
----
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
 ---
 
+## 🧩 Features
 
+### 🎮 GitHub Contribution Pinball Game
+
+A playful interactive animation inspired by your contribution graph — just like in the video demo!  
+The ball bounces through your contributions, creating a dynamic “pinball” effect synced with your GitHub activity.
+
+- Animated pinball game runs automatically on page load.  
+- Real-time contribution visualization using SVG + JS.  
+- Fully responsive for both light and dark GitHub themes.  
+- Makes your profile visually engaging and unique.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashwinvignesh/ashwinvignesh/output/github-contribution-pinball.svg" alt="GitHub Pinball Game" />
+</p>
+
+> *(If the animation doesn't appear, check that your GitHub Actions or `output` branch is public.)*
+
+---
+
+### 📊 GitHub Activity Insights
+
+A live summary of your coding stats and contributions.
+
+- Tracks commits, pull requests, and code reviews.  
+- Displays total yearly contributions and activity streak.  
+- Highlights your most active repositories.  
+- Helps recruiters visualize your consistency.
+
+![GitHub Activity Overview](images/github-activity-overview.png)  
+*Sample: yearly contributions & repo summary.*
+
+---
+
+### 🖼️ How to View Demos
+All demo assets (GIFs or screenshots) should be placed in the `images/` folder.  
+To preview the **pinball animation**, ensure your GitHub repository has a public `output/` branch that hosts the generated SVG.  
+You can create it via [Platane’s GitHub Snake Game](https://github.com/Platane/snk) and customize it into the **pinball variant**.
+
+---
+
+![](https://raw.githubusercontent.com/iharsh234/iharsh234/main/github-contribution-grid-snake-cricket.svg)
+
+---
+
+### 🧾 Changelog
+- Added **GitHub Contribution Pinball Game** below contribution graph.  
+- Integrated **Activity Insights** visualization section.  
+- Updated layout and consistency for better readability.
