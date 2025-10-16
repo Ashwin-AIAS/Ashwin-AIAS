@@ -31,7 +31,7 @@ I enjoy experimenting with different models and developing innovative solutions 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 > "The best way to predict the future is to invent it."  
-> _– Alan Kay_
+> _– Alan Kay
 
 
 
